@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="recordar">Recordar usuario</string>
+    <string name="acceder">Acceder</string>
+</resources>
